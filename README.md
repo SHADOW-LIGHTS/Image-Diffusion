@@ -1,4 +1,4 @@
-# Imgae-Diffusion
+# Image-Diffusion
 Our platform empowers users to unleash their imagination and create beautiful images with ease.
 
 ## Demo Video
